@@ -242,20 +242,6 @@ All charts are placed ONLY where they match grade-specific experiments.
 
 ---
 
-# 🤝 CONTRIBUTION
-
-You may fork this project or open pull requests to contribute:
-
-- Improved kit lists  
-- Additional experiments  
-- Visual diagrams and infographics  
-- Safety flowcharts  
-- Circuit diagrams  
-- Model-based explanations  
-- Updated syllabus requirements  
-
----
-
 # 📫 CONTACT — LEC BIOTEC
 
 **LEC Biotec – Infinite Possibilities**
@@ -273,3 +259,4 @@ Harare, Zimbabwe
 
 © 2025 LEC Biotec.  
 All rights reserved.
+
